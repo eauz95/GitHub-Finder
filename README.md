@@ -1,2 +1,2 @@
 # GitHub-Finder 
-[demo link](http://127.0.0.1:5500/index.html)
+[demo link](https://github.com/eauz95/GitHub-Finder/)
