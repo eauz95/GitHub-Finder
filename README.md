@@ -1,2 +1,2 @@
 # GitHub-Finder 
-[demo link](https://github.com/eauz95/GitHub-Finder/)
+[demo link](https://eauz95.github.io/Github-finder/)
